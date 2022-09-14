@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663156784 source:f:\projekty c++\prata_exercises\main.cpp
+	<iostream>
+	<cstring>
+
